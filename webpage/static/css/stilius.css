@@ -1,3 +1,39 @@
-.navbaras{
-    text-decoration-color: antiquewhite;
+#nuotrauka{
+    padding-top: 20px;
+}
+#nuotrauka{
+    color: blue;
+}
+.container {
+
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.python {
+    width: 40%;
+    background-color: #306998;
+    padding-right: 7px;
+    border-radius: 5px;
+}
+.js {
+    width: 15%;
+    background-color: #F0DB4F;
+    padding-right: 7px;
+    border-radius: 5px;
+}
+.sql {
+    width: 5%;
+    background-color: #808080;
+    padding-right: 7px;
+    border-radius: 5px;
+}
+
+.frames{
+    padding-top: 17px;
 }
