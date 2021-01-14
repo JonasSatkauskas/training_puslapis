@@ -16,13 +16,13 @@
 }
 
 .python {
-    width: 80%;
+    width: 85%;
     background-color: #306998;
     padding-right: 7px;
     border-radius: 5px;
 }
 .js {
-    width: 15%;
+    width: 20%;
     background-color: #F0DB4F;
     padding-right: 7px;
     border-radius: 5px;
@@ -36,4 +36,11 @@
 
 .frames{
     padding-top: 17px;
+}
+
+.django {
+    width: 20%;
+    background-color: #092e20;
+    padding-right: 7px;
+    border-radius: 5px;
 }
